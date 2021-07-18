@@ -141,7 +141,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .nm-menu-item-icons { spacing: 0.5em; }
 
-#panel { font-size: 1em; height: 28px; width: 32px; color: #CFD8DC; background-color: #29353b; font-weight: 700; }
+#panel { font-size: 1em; height: 28px; width: 32px; color: #CFD8DC; background-color: #13191c; font-weight: 700; }
 
 #panel:highlight { background-color: rgba(77, 182, 172, 0.25); }
 
